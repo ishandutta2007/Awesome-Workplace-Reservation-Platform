@@ -21,18 +21,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-| Platform | Description | Starting Price | Free Tier / Trial Limit |
-|---|---|---|---|
-| **[Robin](https://robinpowered.com/)** | Workplace platform for desk and room booking, floor-plan maps, occupancy analytics, and hybrid collaboration tools used by enterprises managing multi-location offices. | ~$3.00/user/month | No free forever plan; 14-day free trial |
-| **[OfficeSpace](https://www.officespacesoftware.com/)** | AI-powered workplace management software focused on space planning, desk/room booking, move management, and utilization insights. | Undisclosed (Enterprise quote required) | No free forever plan; Demo required (no public trial) |
-| **[Condeco / Eptura Engage](https://eptura.com/)** | Enterprise desk and room booking solution (formerly Condeco) tightly integrated with Microsoft ecosystems and large-scale workplace operations. | Undisclosed (Enterprise quote required) | No free forever plan; Demo required (no public trial) |
-| **[Skedda](https://www.skedda.com/)** | Flexible space booking platform known for granular booking rules, per-space pricing, and strong support for desks, rooms, and shared resources. | $99.00/month (up to 15 spaces) | No free forever plan; 30-day free trial |
-| **[Kadence](https://kadence.co/)** | Hybrid workplace platform combining desk booking, scheduling, and insights to help teams coordinate in-office days. | ~$4.00/user/month | No free forever plan; Free trial available |
-| **[Envoy](https://envoy.com/)** | Workplace platform covering visitor management, desk booking, room scheduling, and delivery/logistics features for modern offices. | ~$4.00/user/month (or $60/resource/year) | No free forever plan; 14-day free trial |
-| **[Tactic](https://www.tactic.com/)** | Workplace experience and booking software focused on hybrid coordination, space reservation, and employee experience. | $3.00/desk/month | No free forever plan; 14-day free trial |
-| **[GoBright](https://gobright.com/)** | Desk and room booking, visitor management, and digital signage solutions aimed at efficient workplace utilization. | ~£2.30/license/month | No free forever plan; 30-day free trial |
-| **[Archie](https://archieapp.co/)** | Workplace and booking platform supporting desks, rooms, and hybrid work coordination with modern UX. | $159.00/month | No free forever plan; 14-day free trial |
-| **[Officely](https://www.officely.app/)** | Slack- and Teams-native office attendance and desk booking tool designed for simple hybrid team coordination. | $2.50/user/month | Free forever plan limited to 5 users |
+| Platform | Description | Estimated Size (ARR / Valuation) | Starting Price | Free Tier / Trial Limit |
+|---|---|---|---|---|
+| **[Condeco / Eptura Engage](https://eptura.com/)** | Enterprise desk and room booking solution (formerly Condeco) tightly integrated with Microsoft ecosystems and large-scale workplace operations. | ~$266M ARR | Undisclosed (Enterprise quote required) | No free forever plan; Demo required (no public trial) |
+| **[Envoy](https://envoy.com/)** | Workplace platform covering visitor management, desk booking, room scheduling, and delivery/logistics features for modern offices. | ~$96M ARR ($1.4B Valuation) | ~$4.00/user/month (or $60/resource/year) | No free forever plan; 14-day free trial |
+| **[Robin](https://robinpowered.com/)** | Workplace platform for desk and room booking, floor-plan maps, occupancy analytics, and hybrid collaboration tools used by enterprises managing multi-location offices. | ~$38M ARR (~$330M Valuation) | ~$3.00/user/month | No free forever plan; 14-day free trial |
+| **[OfficeSpace](https://www.officespacesoftware.com/)** | AI-powered workplace management software focused on space planning, desk/room booking, move management, and utilization insights. | ~$30M ARR | Undisclosed (Enterprise quote required) | No free forever plan; Demo required (no public trial) |
+| **[Kadence](https://kadence.co/)** | Hybrid workplace platform combining desk booking, scheduling, and insights to help teams coordinate in-office days. | ~$15M ARR | ~$4.00/user/month | No free forever plan; Free trial available |
+| **[Skedda](https://www.skedda.com/)** | Flexible space booking platform known for granular booking rules, per-space pricing, and strong support for desks, rooms, and shared resources. | ~$12M ARR | $99.00/month (up to 15 spaces) | No free forever plan; 30-day free trial |
+| **[Officely](https://www.officely.app/)** | Slack- and Teams-native office attendance and desk booking tool designed for simple hybrid team coordination. | ~$5M ARR (~$15M Valuation) | $2.50/user/month | Free forever plan limited to 5 users |
+| **[GoBright](https://gobright.com/)** | Desk and room booking, visitor management, and digital signage solutions aimed at efficient workplace utilization. | ~$4.4M ARR | ~£2.30/license/month | No free forever plan; 30-day free trial |
+| **[Archie](https://archieapp.co/)** | Workplace and booking platform supporting desks, rooms, and hybrid work coordination with modern UX. | ~$2.8M ARR | $159.00/month | No free forever plan; 14-day free trial |
+| **[Tactic](https://www.tactic.com/)** | Workplace experience and booking software focused on hybrid coordination, space reservation, and employee experience. | ~$2.5M ARR | $3.00/desk/month | No free forever plan; 14-day free trial |
 
 ## Open-Source GitHub Projects
 - **[Workplacify](https://github.com/igeligel/workplacify)**  
