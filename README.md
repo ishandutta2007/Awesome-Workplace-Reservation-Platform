@@ -1,6 +1,6 @@
 # Awesome-Workplace-Reservation-Platform
 
-# Top Workplace Reservation Platforms Ecosystem
+## Top Workplace Reservation Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Desk Booking, Room Scheduling, Hot-Desking, Hybrid Workplace Management, Occupancy Analytics & Space Utilization*
 **Last updated: August 2026**
