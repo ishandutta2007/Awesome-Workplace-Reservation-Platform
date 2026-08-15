@@ -113,6 +113,58 @@ Let's make desk and room booking more open, flexible, and employee-friendly## �
 - **[LibreBooking](https://github.com/LibreBooking/app)**
   [![Stars](https://img.shields.io/github/stars/LibreBooking/app?style=social&color=white)](https://github.com/LibreBooking/app/stargazers)  
   Open-source resource booking system designed for reserving rooms, equipment, and similar assets.
+- **[classroombookings](https://github.com/classroombookings/classroombookings)**
+  [![Stars](https://img.shields.io/github/stars/classroombookings/classroombookings?style=social&color=white)](https://github.com/classroombookings/classroombookings/stargazers)  
+  A popular, hassle-free open-source room booking system originally designed for schools.
+- **[WARP (Workplace Autonomous Reservation Program)](https://github.com/sebo-b/warp)**
+  [![Stars](https://img.shields.io/github/stars/sebo-b/warp?style=social&color=white)](https://github.com/sebo-b/warp/stargazers)  
+  Open-source system for managing hybrid office space, including hot-desks, assigned seats, visual booking, and occupancy transparency.
+- **[OpenDesk](https://github.com/kanwalnainsingh/OpenDesk)**
+  [![Stars](https://img.shields.io/github/stars/kanwalnainsingh/OpenDesk?style=social&color=white)](https://github.com/kanwalnainsingh/OpenDesk/stargazers)  
+  System helping organizations optimize office desk utilization by enabling employees to reserve desks when working from the office.
+- **[Workplacify](https://github.com/igeligel/workplacify)**
+  [![Stars](https://img.shields.io/github/stars/igeligel/workplacify?style=social&color=white)](https://github.com/igeligel/workplacify/stargazers)  
+  Fully open-source desk reservation and scheduling solution for hybrid workplaces, positioned as an alternative to commercial desk-booking tools.
+- **[Simple Desk Booking](https://github.com/opariltay/simple-desk-booking)**
+  [![Stars](https://img.shields.io/github/stars/opariltay/simple-desk-booking?style=social&color=white)](https://github.com/opariltay/simple-desk-booking/stargazers)  
+  Easy-to-use open-source desk booking software (Laravel-based) that allows users to reserve full-day seats at the workplace.
+- **[Workplace Reservation](https://github.com/florian-glombik/workplace-reservation)**
+  [![Stars](https://img.shields.io/github/stars/florian-glombik/workplace-reservation?style=social&color=white)](https://github.com/florian-glombik/workplace-reservation/stargazers)  
+  A TypeScript-based solution focused on managing the capacity of shared office spaces.
+- **[Bookyp](https://github.com/geprog/bookyp)**
+  [![Stars](https://img.shields.io/github/stars/geprog/bookyp?style=social&color=white)](https://github.com/geprog/bookyp/stargazers)  
+  Open-source platform for managing and booking rooms and workspaces, suitable for offices and shared spaces.
+
+### Additional Strong Open-Source Options
+- **[MRBS (Meeting Room Booking System)](https://mrbs.sourceforge.io/)** Long-standing open-source resource scheduler for rooms, desks, and other bookable resources; fully self-hosted.
+- Integration of open calendar systems (Nextcloud Calendar, etc.) with simple reservation overlays.
+- Analytics dashboards (Metabase, Grafana) built on top of open booking databases for utilization reporting.
+
+**Frameworks for building custom systems**: Deploy **Workplacify**, **WARP**, or **OpenDesk** for core desk booking, use **MRBS** or **Bookyp** for room/resource scheduling, store data in Postgres, expose simple mobile-friendly UIs or PWAs, and optionally integrate with Slack/Teams via open bots or webhooks. Add floor-plan visualizations with open mapping libraries and feed occupancy data into open BI tools for space-planning insights.
+
+## How to Contribute
+1. Fork the repo.
+2. Add/edit entries in `README.md` (follow existing format).
+3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+4. Submit PR with a short explanation.
+
+Star the repo if you find it useful!
+
+## Disclaimer
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- Workplace reservation systems handle employee location and attendance data. Self-hosted open-source solutions require appropriate privacy controls, access management, and compliance with local labor and data-protection regulations.
+- Utilization analytics should be used responsibly and transparently with employees.
+
+---
+**Made for facilities managers, hybrid-work leaders, IT teams, and organizations building open workplace tools.**
+Let's make desk and room booking more open, flexible, and employee-friendly## 📑 Open-Source GitHub Projects
+
+- **[Cal.com](https://github.com/calcom/cal.com)**
+  [![Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
+  Popular open-source scheduling infrastructure that can be adapted or extended for internal resource booking use cases.
+- **[LibreBooking](https://github.com/LibreBooking/app)**
+  [![Stars](https://img.shields.io/github/stars/LibreBooking/app?style=social&color=white)](https://github.com/LibreBooking/app/stargazers)  
+  Open-source resource booking system designed for reserving rooms, equipment, and similar assets.
 - **[WARP (Workplace Autonomous Reservation Program)](https://github.com/sebo-b/warp)**
   [![Stars](https://img.shields.io/github/stars/sebo-b/warp?style=social&color=white)](https://github.com/sebo-b/warp/stargazers)  
   Open-source system for managing hybrid office space, including hot-desks, assigned seats, visual booking, and occupancy transparency.
