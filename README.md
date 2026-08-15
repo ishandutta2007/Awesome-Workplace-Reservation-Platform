@@ -77,6 +77,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[FreeBook](https://github.com/FreeBook/FreeBook)**> [PING
   Open-source desk and resource booking system for coworking spaces and offices.
 
+- **[FreeBook](https://github.com/FreeBook/FreeBook)**
+  [![Stars](https://img.shields.io/github/stars/FreeBook/FreeBook?style=social&color=white)](https://github.com/FreeBook/FreeBook/stargazers) 
+  Open-source desk and resource booking system for coworking spaces and offices.
+
 ### Additional Strong Open-Source Options
 - General open-source booking platforms (SavSpot and similar) that can be configured for internal resources.
 - Integration of open calendar systems (Nextcloud Calendar, etc.) with simple reservation overlays.
@@ -124,6 +128,10 @@ Let's make desk and room booking more open, flexible, and employee-friendly## ðŸ
 - **[Bookyp](https://github.com/geprog/bookyp)**
   [![Stars](https://img.shields.io/github/stars/geprog/bookyp?style=social&color=white)](https://github.com/geprog/bookyp/stargazers)  
   Open-source platform for managing and booking rooms and workspaces, suitable for offices and shared spaces.
+
+- **[FreeBook](https://github.com/FreeBook/FreeBook)**
+  [![Stars](https://img.shields.io/github/stars/FreeBook/FreeBook?style=social&color=white)](https://github.com/FreeBook/FreeBook/stargazers) 
+  Open-source desk and resource booking system for coworking spaces and offices.
 
 ### Additional Strong Open-Source Options
 - **[MRBS (Meeting Room Booking System)](https://mrbs.sourceforge.io/)** Long-standing open-source resource scheduler for rooms, desks, and other bookable resources; fully self-hosted.
